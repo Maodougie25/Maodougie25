@@ -2,7 +2,6 @@
 
 **M.S. in Data Science @ University of Virginia (Class of 2026)**  
 **B.S. in Economics & Minor in Data Analysis @ George Mason University (Class of 2025)**  
-
 **Former FinTech Research Intern @ U.S. Commodity Futures Trading Commission (CFTC)**  
 
 ---
@@ -22,8 +21,8 @@ I’m currently working on projects involving:
 ## Tech Stack  
 **Languages:** Python, R, SQL, SAS, Stata, MATLAB  
 **Libraries:** Pandas, NumPy, Matplotlib, scikit-learn, ggplot2, dplyr  
-**Tools:** Docker, Git/GitHub, VS Code, JupyterLab, RStudio  
-**Databases:** PostgreSQL, SQLite, Azure Data Studio  
+**Tools:** Dockers, Git/GitHub, VS Code, JupyterLab, RStudio  
+**Databases:** PostgreSQL, SQLite, MySQL 
 
 ---
 
@@ -36,4 +35,4 @@ I’m currently working on projects involving:
 **Location:** Northern Virginia | Charlottesville, VA  
 **LinkedIn:** [linkedin.com/in/mauriciotorres-237a76296](https://www.linkedin.com/in/mauriciotorres-237a76296/)  
 **Personal Website:** Coming soon  
-**Email:** torresmauricio@virginia.edu  
+**Email:** kbj2xn@virginia.edu  
