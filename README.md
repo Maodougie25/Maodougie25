@@ -1,7 +1,9 @@
 ## Hi, I’m Mauricio Torres
 
 M.S. in Data Science @ University of Virginia (Class of 2026)
+
 B.S. in Economics & Minor in Data Analysis @ George Mason University (Class of 2025)
+
 Former FinTech Research Intern @ U.S. Commodity Futures Trading Commission (CFTC)
 
 About Me
