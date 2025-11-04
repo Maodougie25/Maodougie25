@@ -36,7 +36,10 @@ Data Against Crime
 Let’s Connect
 
 Northern Virginia | Charlottesville, VA
+
 LinkedIn: https://www.linkedin.com/in/mauricio-torres-237a76296/
+
 Personal Website (coming soon!)
+
 Email: kbj2xn@virginia.edu
 
