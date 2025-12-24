@@ -27,7 +27,7 @@ I’m currently working on projects involving:
 ---
 
 ## Featured Projects  
-**Data Against Crime** — Analysis of FBI IC3 crypto-fraud data by state and age group  
+ 
 
 ---
 
