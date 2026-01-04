@@ -1,4 +1,4 @@
-## Hi, I’m Mauricio Torres  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+## Hi, I’m Mauricio Torres  
 
 **M.S. in Data Science @ University of Virginia (Class of 2026)**  
 **B.S. in Economics & Minor in Data Analysis @ George Mason University (Class of 2025)**  
